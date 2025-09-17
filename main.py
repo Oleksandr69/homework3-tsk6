@@ -25,7 +25,7 @@ def main_menu():
 		elif choice == '7':
 			second_member.power()
 		elif choice == '8':
-			second_member/root()
+			second_member.root()
 		elif choice == '9':
 			third_member.sin()
 		elif choice == '10':
