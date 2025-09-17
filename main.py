@@ -35,9 +35,9 @@ def main_menu():
 		elif choice == '12':
 			third_member.is_even()
 		elif choice == '0':
-			print("До побачення!")
+			print("===До побачення!===")
 			break
 		else:
-			print("Невірний вибір!")
+			print("===Невірний вибір!===")
 
 main_menu()
